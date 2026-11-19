@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_Name,City,Product,Category,Quantity,Unit_Price,Discount,Payment_Mode,Revenue,Month,Year,Month_Number
+ORD1001,2025-05-21,Sana,Mumbai,Monitor,Electronics,1.0,10718.79,0.05,Card,10182.8505,May,2025,5
+ORD1002,2025-05-08,Priya,Pune,Monitor,Electronics,5.0,10951.02,0.0,Upi,54755.100000000006,May,2025,5
+ORD1003,2025-10-15,Dev,Mumbai,Mobile,Electronics,5.0,22673.32,0.05,Net Banking,107698.27,October,2025,10
+ORD1004,2025-04-01,Ishita,Mumbai,Mouse,Accessories,3.0,710.34,0.1,Net Banking,1917.918,April,2025,4
+ORD1005,2025-06-22,Sana,Pune,Mobile,Electronics,2.0,25017.61,0.15,Upi,42529.937,June,2025,6
+ORD1006,2025-01-23,Meera,Aurangabad,Headphones,Accessories,3.0,1856.01,0.0,Net Banking,5568.03,January,2025,1
+ORD1007,2025-11-18,Sana,Kolhapur,Laptop,Electronics,5.0,51587.44,0.05,Cash,245040.34,November,2025,11
+ORD1008,2025-10-02,Ishita,Mumbai,Laptop,Electronics,2.0,59505.63,0.15,Upi,101159.571,October,2025,10
+ORD1009,2025-01-07,Rohan,Mumbai,Keyboard,Accessories,3.0,1078.56,0.0,Upi,3235.68,January,2025,1
+ORD1010,2025-07-14,Aarav,Pune,Mouse,Accessories,2.0,584.36,0.1,Card,1051.848,July,2025,7
+ORD1011,2025-07-25,Kabir,Nashik,Mobile,Electronics,1.0,24013.3,0.05,Upi,22812.635,July,2025,7
+ORD1012,2025-11-26,Rohan,Nagpur,Mobile,Electronics,4.0,21311.17,0.1,Card,76720.212,November,2025,11
+ORD1013,2025-10-27,Priya,Nagpur,Mobile,Electronics,5.0,22257.25,0.1,Net Banking,100157.625,October,2025,10
+ORD1014,2025-01-25,Meera,Pune,Mobile,Electronics,5.0,21957.2,0.1,Card,98807.4,January,2025,1
+ORD1015,2025-11-02,Sana,Nagpur,Mouse,Accessories,1.0,627.53,0.0,Cash,627.53,November,2025,11
+ORD1016,2025-11-25,Meera,Nashik,Monitor,Electronics,5.0,13440.79,0.1,Upi,60483.555000000015,November,2025,11
+ORD1017,2025-05-15,Ishita,Pune,Mobile,Electronics,4.0,18721.42,0.0,Card,74885.68,May,2025,5
+ORD1018,2025-03-20,Kabir,Pune,Tablet,Electronics,5.0,18588.44,0.0,Card,92942.2,March,2025,3
+ORD1019,2025-05-07,Priya,Nashik,Keyboard,Accessories,1.0,1060.27,0.0,Card,1060.27,May,2025,5
+ORD1020,2025-06-09,Dev,Pune,Mouse,Accessories,1.0,569.2,0.05,Card,540.74,June,2025,6
+ORD1021,2025-07-11,Ishita,Nagpur,Mouse,Accessories,2.0,604.19,0.05,Card,1147.961,July,2025,7
+ORD1022,2025-09-22,Priya,Nagpur,Mouse,Accessories,3.0,1177.72,0.05,Upi,3356.5019999999995,September,2025,9
+ORD1023,2025-11-10,Sana,Mumbai,Laptop,Electronics,3.0,47097.07,0.0,Card,141291.21,November,2025,11
+ORD1024,2025-01-17,Ishita,Nashik,Monitor,Electronics,1.0,11483.53,0.05,Upi,10909.3535,January,2025,1
+ORD1025,2025-09-03,Dev,Aurangabad,Monitor,Electronics,4.0,11428.39,0.05,Net Banking,43427.882,September,2025,9
+ORD1026,2025-02-19,Meera,Aurangabad,Tablet,Electronics,4.0,16328.21,0.1,Net Banking,58781.556,February,2025,2
+ORD1027,2025-01-28,Meera,Aurangabad,Keyboard,Accessories,4.0,1330.98,0.0,Upi,5323.92,January,2025,1
+ORD1028,2025-02-25,Dev,Mumbai,Monitor,Electronics,3.0,13627.22,0.05,Card,38837.577,February,2025,2
+ORD1029,2025-08-25,Sana,Nashik,Mobile,Electronics,4.0,19911.02,0.15,Upi,67697.468,August,2025,8
+ORD1030,2025-02-17,Dev,Mumbai,Laptop,Electronics,5.0,60544.46,0.15,Card,257313.955,February,2025,2
+ORD1031,2025-01-31,Meera,Pune,Keyboard,Accessories,2.0,1331.27,0.0,Net Banking,2662.54,January,2025,1
+ORD1032,2025-12-23,Priya,Aurangabad,Headphones,Accessories,4.0,1684.03,0.05,Net Banking,6399.313999999999,December,2025,12
+ORD1033,2025-10-24,Aarav,Aurangabad,Headphones,Accessories,2.0,2053.1,0.1,Upi,3695.58,October,2025,10
+ORD1034,2025-09-29,Rohan,Mumbai,Laptop,Electronics,5.0,54617.01,0.1,Upi,245776.545,September,2025,9
+ORD1035,2025-01-05,Aarav,Nagpur,Laptop,Electronics,5.0,47871.35,0.05,Upi,227388.9125,January,2025,1
+ORD1036,2025-10-26,Priya,Kolhapur,Mouse,Accessories,1.0,634.25,0.1,Cash,570.825,October,2025,10
+ORD1037,2025-07-22,Kabir,Mumbai,Monitor,Electronics,3.0,11520.07,0.15,Cash,29376.1785,July,2025,7
+ORD1038,2025-11-15,Priya,Kolhapur,Tablet,Electronics,1.0,15350.3,0.0,Upi,15350.3,November,2025,11
+ORD1039,2025-06-28,Ishita,Pune,Mouse,Accessories,3.0,578.33,0.1,Card,1561.4910000000002,June,2025,6
+ORD1040,2025-12-27,Sana,Mumbai,Mobile,Electronics,4.0,24202.72,0.1,Upi,87129.792,December,2025,12
+ORD1041,2025-02-24,Ishita,Aurangabad,Mobile,Electronics,3.0,19461.83,0.1,Card,52546.941000000006,February,2025,2
+ORD1042,2025-04-15,Ishita,Aurangabad,Mouse,Accessories,2.0,692.43,0.15,Cash,1177.131,April,2025,4
+ORD1043,2025-05-08,Kabir,Nashik,Tablet,Electronics,1.0,17707.93,0.0,Upi,17707.93,May,2025,5
+ORD1044,2025-05-15,Aarav,Mumbai,Tablet,Electronics,2.0,18740.41,0.15,Net Banking,31858.697,May,2025,5
+ORD1045,2025-12-20,Rohan,Mumbai,Laptop,Electronics,3.0,62343.34,0.1,Upi,168327.01799999998,December,2025,12
+ORD1046,2025-06-07,Priya,Pune,Keyboard,Accessories,2.0,1035.06,0.05,Cash,1966.614,June,2025,6
+ORD1047,2025-10-14,Rohan,Nagpur,Monitor,Electronics,1.0,11951.29,0.05,Card,11353.7255,October,2025,10
+ORD1048,2025-01-13,Priya,Nashik,Tablet,Electronics,2.0,20059.65,0.15,Cash,34101.405,January,2025,1
+ORD1049,2025-02-25,Priya,Nagpur,Headphones,Accessories,2.0,1955.18,0.15,Upi,3323.806,February,2025,2
+ORD1050,2025-04-27,Meera,Mumbai,Mobile,Electronics,4.0,21007.75,0.05,Upi,79829.45,April,2025,4
+ORD1051,2025-05-23,Aarav,Nashik,Headphones,Accessories,3.0,1996.75,0.1,Net Banking,5391.225,May,2025,5
+ORD1052,2025-05-16,Kabir,Pune,Laptop,Electronics,3.0,49696.37,0.15,Upi,126725.7435,May,2025,5
+ORD1053,2025-09-19,Ishita,Pune,Laptop,Electronics,3.0,12261.48,0.05,Card,34945.218,September,2025,9
+ORD1054,2025-03-10,Meera,Aurangabad,Laptop,Electronics,4.0,46777.91,0.1,Card,168400.47600000002,March,2025,3
+ORD1055,2025-06-12,Meera,Pune,Laptop,Electronics,3.0,57032.06,0.1,Cash,153986.562,June,2025,6
+ORD1056,2025-11-10,Meera,Mumbai,Headphones,Accessories,4.0,1906.49,0.15,Card,6482.066,November,2025,11
+ORD1057,2025-04-06,Ishita,Pune,Monitor,Electronics,2.0,12933.18,0.1,Upi,23279.724,April,2025,4
+ORD1058,2025-07-11,Dev,Aurangabad,Mobile,Electronics,4.0,23886.01,0.15,Cash,81212.434,July,2025,7
+ORD1059,2025-03-28,Kabir,Aurangabad,Keyboard,Accessories,2.0,1204.02,0.1,Card,2167.236,March,2025,3
+ORD1060,2025-04-26,Aarav,Mumbai,Laptop,Electronics,2.0,57851.13,0.0,Card,115702.26,April,2025,4
+ORD1061,2025-07-02,Meera,Nagpur,Mobile,Electronics,4.0,22734.41,0.05,Net Banking,86390.758,July,2025,7
+ORD1062,2025-12-02,Meera,Aurangabad,Keyboard,Accessories,4.0,1107.83,0.0,Upi,4431.32,December,2025,12
+ORD1063,2025-12-23,Priya,Kolhapur,Mobile,Electronics,2.0,24007.13,0.0,Net Banking,48014.26,December,2025,12
+ORD1064,2025-08-26,Meera,Aurangabad,Tablet,Electronics,1.0,17764.89,0.15,Cash,15100.1565,August,2025,8
+ORD1065,2025-03-23,Ishita,Aurangabad,Tablet,Electronics,5.0,17707.93,0.15,Net Banking,75258.7025,March,2025,3
+ORD1066,2025-05-22,Ishita,Kolhapur,Tablet,Electronics,2.0,19835.26,0.05,Net Banking,37686.994,May,2025,5
+ORD1067,2025-01-05,Unknown,Nashik,Keyboard,Accessories,1.0,1276.88,0.1,Cash,1149.1920000000002,January,2025,1
+ORD1068,2025-12-22,Unknown,Mumbai,Mobile,Electronics,2.0,20226.33,0.0,Card,40452.66,December,2025,12
+ORD1069,2025-01-08,Meera,Pune,Keyboard,Accessories,3.0,1215.34,0.15,Card,3099.117,January,2025,1
+ORD1070,2025-11-01,Aarav,Kolhapur,Tablet,Electronics,5.0,20408.73,0.15,Net Banking,86737.1025,November,2025,11
+ORD1071,2025-03-08,Priya,Kolhapur,Headphones,Accessories,3.0,1936.88,0.15,Card,4939.044,March,2025,3
+ORD1072,2025-07-19,Dev,Nashik,Headphones,Accessories,4.0,1792.25,0.05,Net Banking,6810.549999999999,July,2025,7
+ORD1073,2025-07-21,Meera,Kolhapur,Mobile,Electronics,5.0,22225.22,0.0,Upi,111126.1,July,2025,7
+ORD1074,2025-05-14,Dev,Pune,Mobile,Electronics,4.0,19899.41,0.05,Cash,75617.758,May,2025,5
+ORD1075,2025-07-14,Sana,Nashik,Headphones,Accessories,3.0,1941.06,0.1,Net Banking,5240.862,July,2025,7
+ORD1076,2025-01-27,Aarav,Nashik,Keyboard,Accessories,1.0,1289.65,0.0,Card,1289.65,January,2025,1
+ORD1077,2025-04-13,Rohan,Pune,Tablet,Electronics,1.0,20427.9,0.05,Card,19406.505,April,2025,4
+ORD1078,2025-04-22,Rohan,Nagpur,Keyboard,Accessories,1.0,1223.03,0.1,Cash,1100.727,April,2025,4
+ORD1079,2025-02-28,Aarav,Mumbai,Mouse,Accessories,3.0,740.43,0.0,Cash,2221.29,February,2025,2
+ORD1080,2025-12-07,Priya,Nagpur,Headphones,Accessories,5.0,1895.77,0.0,Card,9478.85,December,2025,12
+ORD1081,2025-04-11,Meera,Pune,Laptop,Electronics,3.0,60779.84,0.1,Upi,164105.568,April,2025,4
+ORD1082,2025-11-28,Dev,Nashik,Monitor,Electronics,3.0,10883.59,0.15,Upi,27753.1545,November,2025,11
+ORD1083,2025-11-22,Rohan,Mumbai,Laptop,Electronics,4.0,55621.455,0.15,Upi,189112.947,November,2025,11
+ORD1084,2025-05-19,Meera,Kolhapur,Monitor,Electronics,5.0,14245.53,0.15,Net Banking,60543.5025,May,2025,5
+ORD1085,2025-06-05,Priya,Pune,Tablet,Electronics,5.0,16749.34,0.15,Cash,71184.69499999999,June,2025,6
+ORD1086,2025-09-12,Dev,Nagpur,Tablet,Electronics,4.0,18377.19,0.0,Cash,73508.76,September,2025,9
+ORD1087,2025-04-19,Ishita,Nashik,Tablet,Electronics,3.0,16281.94,0.1,Cash,43961.238,April,2025,4
+ORD1088,2025-09-22,Meera,Mumbai,Mouse,Accessories,3.0,660.88,0.05,Upi,1883.508,September,2025,9
+ORD1089,2025-12-20,Aarav,Nagpur,Keyboard,Accessories,5.0,1292.94,0.15,Net Banking,5494.995000000001,December,2025,12
+ORD1090,2025-12-21,Dev,Mumbai,Laptop,Electronics,3.0,50406.34,0.1,Cash,136097.118,December,2025,12
+ORD1091,2025-09-10,Ishita,Nashik,Mouse,Accessories,5.0,619.53,0.15,Cash,2633.0025,September,2025,9
+ORD1092,2025-09-04,Priya,Nashik,Headphones,Accessories,3.0,1654.49,0.05,Upi,4715.2965,September,2025,9
+ORD1093,2025-10-29,Priya,Kolhapur,Mobile,Electronics,4.0,20524.9,0.0,Cash,82099.6,October,2025,10
+ORD1094,2025-04-06,Aarav,Nashik,Headphones,Accessories,2.0,1724.88,0.1,Card,3104.784,April,2025,4
+ORD1095,2025-06-03,Aarav,Aurangabad,Laptop,Electronics,5.0,51570.25,0.0,Net Banking,257851.25,June,2025,6
+ORD1096,2025-08-14,Ishita,Mumbai,Mouse,Accessories,3.0,644.03,0.0,Card,1932.09,August,2025,8
+ORD1097,2025-03-02,Aarav,Nagpur,Tablet,Electronics,4.0,15916.07,0.0,Net Banking,63664.28,March,2025,3
+ORD1098,2025-05-06,Meera,Pune,Mobile,Electronics,2.0,24053.54,0.0,Card,48107.08,May,2025,5
+ORD1099,2025-04-26,Dev,Kolhapur,Mouse,Accessories,5.0,706.69,0.15,Upi,3003.4325000000003,April,2025,4
+ORD1100,2025-06-06,Priya,Kolhapur,Headphones,Accessories,5.0,2064.62,0.0,Upi,10323.1,June,2025,6
+ORD1101,2025-11-02,Sana,Nashik,Monitor,Electronics,2.0,11617.42,0.05,Card,22073.098,November,2025,11
+ORD1102,2025-12-19,Aarav,Kolhapur,Mobile,Electronics,1.0,21396.22,0.1,Net Banking,19256.598,December,2025,12
+ORD1103,2025-12-26,Ishita,Nagpur,Mobile,Electronics,3.0,23365.91,0.05,Upi,66592.84349999999,December,2025,12
+ORD1104,2025-12-04,Rohan,Nagpur,Tablet,Electronics,5.0,18870.39,0.05,Upi,89634.3525,December,2025,12
+ORD1105,2025-03-26,Sana,Pune,Headphones,Accessories,2.0,1568.56,0.15,Cash,2666.552,March,2025,3
+ORD1106,2025-05-20,Sana,Kolhapur,Keyboard,Accessories,3.0,1271.9,0.15,Net Banking,3243.3450000000003,May,2025,5
+ORD1107,2025-06-15,Sana,Kolhapur,Mouse,Accessories,1.0,725.94,0.0,Cash,725.94,June,2025,6
+ORD1108,2025-11-01,Rohan,Aurangabad,Mobile,Electronics,5.0,22575.01,0.0,Cash,112875.05,November,2025,11
+ORD1109,2025-05-23,Sana,Mumbai,Keyboard,Accessories,5.0,1254.54,0.15,Net Banking,5331.795,May,2025,5
+ORD1110,2025-06-14,Kabir,Aurangabad,Keyboard,Accessories,3.0,1167.01,0.05,Upi,3325.9785,June,2025,6
+ORD1111,2025-07-25,Sana,Kolhapur,Keyboard,Accessories,4.0,1123.76,0.15,Upi,3820.784,July,2025,7
+ORD1112,2025-07-26,Meera,Kolhapur,Headphones,Accessories,3.0,1704.57,0.15,Upi,4346.6535,July,2025,7
+ORD1113,2025-11-15,Priya,Nagpur,Laptop,Electronics,2.0,55304.25,0.1,Net Banking,99547.65,November,2025,11
+ORD1114,2025-05-28,Aarav,Nagpur,Headphones,Accessories,5.0,1600.75,0.0,Net Banking,8003.75,May,2025,5
+ORD1115,2025-12-30,Meera,Mumbai,Monitor,Electronics,5.0,13622.43,0.0,Cash,68112.15,December,2025,12
+ORD1116,2025-02-28,Dev,Nagpur,Laptop,Electronics,3.0,63122.24,0.05,Upi,179898.384,February,2025,2
+ORD1117,2025-05-20,Priya,Nagpur,Monitor,Electronics,3.0,12533.27,0.15,Net Banking,31959.8385,May,2025,5
+ORD1118,2025-08-04,Ishita,Kolhapur,Keyboard,Accessories,5.0,1072.07,0.0,Card,5360.349999999999,August,2025,8
+ORD1119,2025-09-17,Ishita,Nashik,Tablet,Electronics,4.0,17135.33,0.1,Upi,61687.18800000001,September,2025,9
+ORD1120,2025-04-12,Dev,Nagpur,Tablet,Electronics,5.0,18431.59,0.15,Card,78334.25749999999,April,2025,4
+ORD1121,2025-06-10,Priya,Nagpur,Headphones,Accessories,3.0,1792.25,0.1,Net Banking,4839.075,June,2025,6
+ORD1122,2025-04-30,Dev,Nagpur,Monitor,Electronics,2.0,12769.24,0.1,Upi,22984.632,April,2025,4
+ORD1123,2025-06-12,Aarav,Aurangabad,Monitor,Electronics,4.0,12072.8,0.15,Card,41047.52,June,2025,6
+ORD1124,2025-06-19,Unknown,Pune,Mobile,Electronics,5.0,25071.33,0.0,Net Banking,125356.65,June,2025,6
+ORD1125,2025-02-12,Ishita,Pune,Laptop,Electronics,2.0,53514.65,0.15,Upi,90974.905,February,2025,2
+ORD1126,2025-11-29,Kabir,Pune,Headphones,Accessories,5.0,1904.06,0.15,Cash,8092.254999999999,November,2025,11
+ORD1127,2025-01-19,Ishita,Kolhapur,Monitor,Electronics,4.0,13896.44,0.05,Upi,52806.472,January,2025,1
+ORD1128,2025-02-20,Rohan,Aurangabad,Mobile,Electronics,1.0,21564.21,0.15,Upi,18329.5785,February,2025,2
+ORD1129,2025-01-24,Kabir,Nashik,Monitor,Electronics,3.0,14012.84,0.1,Upi,37834.668000000005,January,2025,1
+ORD1130,2025-09-29,Rohan,Nagpur,Headphones,Accessories,4.0,1608.61,0.05,Card,6112.717999999999,September,2025,9
+ORD1131,2025-11-14,Rohan,Aurangabad,Laptop,Electronics,99.0,61118.85,0.15,Card,5143151.227499999,November,2025,11
+ORD1132,2025-08-24,Ishita,Nashik,Mobile,Electronics,4.0,22910.17,0.15,Upi,77894.578,August,2025,8
+ORD1133,2025-08-15,Ishita,Nashik,Monitor,Electronics,5.0,11217.41,0.15,Cash,47673.9925,August,2025,8
+ORD1134,2025-07-16,Meera,Nagpur,Keyboard,Accessories,3.0,1091.72,0.05,Upi,3111.402,July,2025,7
+ORD1135,2025-12-25,Ishita,Nashik,Mouse,Accessories,3.0,664.59,0.15,Upi,1694.7045,December,2025,12
+ORD1136,2025-01-26,Priya,Kolhapur,Laptop,Electronics,5.0,61023.61,0.1,Net Banking,274606.245,January,2025,1
+ORD1137,2025-08-04,Sana,Kolhapur,Mouse,Accessories,3.0,595.21,0.05,Cash,1696.3485,August,2025,8
+ORD1138,2025-08-14,Sana,Pune,Monitor,Electronics,1.0,11783.5,0.05,Cash,11194.325,August,2025,8
+ORD1139,2025-03-31,Ishita,Mumbai,Headphones,Accessories,3.0,1933.64,0.1,Card,5220.828,March,2025,3
+ORD1140,2025-04-09,Dev,Nashik,Tablet,Electronics,2.0,16687.64,0.0,Cash,33375.28,April,2025,4
+ORD1141,2025-04-26,Sana,Aurangabad,Laptop,Electronics,2.0,59193.5,0.1,Card,106548.3,April,2025,4
+ORD1142,2025-02-10,Ishita,Pune,Tablet,Electronics,4.0,15375.16,0.1,Upi,55350.576,February,2025,2
+ORD1143,2025-10-07,Aarav,Pune,Mouse,Accessories,4.0,712.87,0.15,Card,2423.758,October,2025,10
+ORD1144,2025-09-11,Ishita,Mumbai,Mouse,Accessories,5.0,616.46,0.15,Upi,2619.955,September,2025,9
+ORD1145,2025-01-24,Sana,Pune,Monitor,Electronics,4.0,11062.53,0.15,Cash,37612.602,January,2025,1
+ORD1146,2025-11-03,Meera,Nagpur,Laptop,Electronics,2.0,61389.78,0.1,Net Banking,110501.604,November,2025,11
+ORD1147,2025-02-12,Ishita,Pune,Mouse,Accessories,2.0,725.16,0.15,Net Banking,1232.772,February,2025,2
+ORD1148,2025-08-16,Kabir,Mumbai,Laptop,Electronics,3.0,50334.95,0.0,Cash,151004.84999999998,August,2025,8
+ORD1149,2025-05-22,Sana,Mumbai,Mouse,Accessories,3.0,564.31,0.15,Upi,1438.9905,May,2025,5
+ORD1150,2025-02-11,Priya,Pune,Monitor,Electronics,2.0,13031.39,0.1,Upi,23456.502,February,2025,2
+ORD1151,2025-11-10,Kabir,Mumbai,Headphones,Accessories,5.0,20054.36,0.05,Card,95258.21,November,2025,11
+ORD1152,2025-02-11,Rohan,Pune,Tablet,Electronics,2.0,19558.68,0.05,Cash,37161.492,February,2025,2
+ORD1153,2025-02-26,Aarav,Aurangabad,Mouse,Accessories,3.0,708.21,0.05,Upi,2018.3985,February,2025,2
+ORD1154,2025-09-01,Rohan,Mumbai,Headphones,Accessories,2.0,1847.98,0.0,Cash,3695.96,September,2025,9
+ORD1155,2025-02-02,Sana,Nagpur,Monitor,Electronics,4.0,12597.82,0.1,Net Banking,45352.152,February,2025,2
+ORD1156,2025-11-11,Aarav,Pune,Keyboard,Accessories,5.0,1099.76,0.15,Cash,4673.9800000000005,November,2025,11
+ORD1157,2025-07-08,Dev,Aurangabad,Laptop,Electronics,4.0,60730.43,0.15,Card,206483.462,July,2025,7
+ORD1158,2025-03-17,Kabir,Pune,Laptop,Electronics,1.0,52064.85,0.1,Card,46858.365,March,2025,3
+ORD1159,2025-08-21,Sana,Kolhapur,Keyboard,Accessories,5.0,1211.0,0.0,Net Banking,6055.0,August,2025,8
+ORD1160,2025-04-21,Meera,Nagpur,Tablet,Electronics,5.0,19192.54,0.05,Net Banking,91164.565,April,2025,4
+ORD1161,2025-02-18,Ishita,Nashik,Headphones,Accessories,4.0,1745.31,0.1,Net Banking,6283.116,February,2025,2
+ORD1162,2025-08-31,Sana,Pune,Headphones,Accessories,2.0,1900.88,0.0,Upi,3801.76,August,2025,8
+ORD1163,2025-10-07,Sana,Mumbai,Keyboard,Accessories,1.0,1288.05,0.1,Upi,1159.245,October,2025,10
+ORD1164,2025-05-08,Ishita,Aurangabad,Keyboard,Accessories,3.0,1334.5,0.1,Upi,3603.15,May,2025,5
+ORD1165,2025-04-19,Sana,Mumbai,Headphones,Accessories,1.0,1792.25,0.05,Net Banking,1702.6374999999998,April,2025,4
+ORD1166,2025-05-23,Aarav,Kolhapur,Headphones,Accessories,5.0,1728.48,0.15,Card,7346.039999999999,May,2025,5
+ORD1167,2025-05-20,Kabir,Aurangabad,Mouse,Accessories,3.0,558.15,0.1,Cash,1507.005,May,2025,5
+ORD1168,2025-10-17,Rohan,Aurangabad,Laptop,Electronics,2.0,61102.73,0.0,Net Banking,122205.46,October,2025,10
+ORD1169,2025-09-29,Dev,Mumbai,Monitor,Electronics,1.0,10969.09,0.15,Net Banking,9323.7265,September,2025,9
+ORD1170,2025-06-16,Rohan,Kolhapur,Headphones,Accessories,2.0,1729.83,0.0,Upi,3459.66,June,2025,6
+ORD1171,2025-11-02,Dev,Nashik,Mobile,Electronics,5.0,19028.43,0.15,Net Banking,80870.8275,November,2025,11
+ORD1172,2025-04-21,Meera,Kolhapur,Mouse,Accessories,4.0,633.27,0.1,Upi,2279.772,April,2025,4
+ORD1173,2025-10-31,Priya,Nagpur,Laptop,Electronics,3.0,57940.6,0.0,Cash,173821.8,October,2025,10
+ORD1174,2025-04-15,Ishita,Nashik,Keyboard,Accessories,5.0,1039.72,0.05,Card,4938.67,April,2025,4
+ORD1175,2025-12-09,Rohan,Aurangabad,Headphones,Accessories,3.0,1594.79,0.05,Net Banking,4545.1515,December,2025,12
+ORD1176,2025-09-14,Meera,Kolhapur,Keyboard,Accessories,5.0,1273.32,0.0,Upi,6366.599999999999,September,2025,9
+ORD1177,2025-08-24,Meera,Pune,Tablet,Electronics,1.0,17655.59,0.15,Cash,15007.2515,August,2025,8
+ORD1178,2025-07-27,Dev,Pune,Monitor,Electronics,4.0,11710.68,0.05,Cash,44500.584,July,2025,7
+ORD1179,2025-02-24,Sana,Mumbai,Tablet,Electronics,3.0,15775.9,0.15,Net Banking,40228.545,February,2025,2
+ORD1180,2025-04-24,Unknown,Nashik,Keyboard,Accessories,3.0,1288.49,0.0,Card,3865.47,April,2025,4
+ORD1181,2025-06-28,Sana,Nashik,Laptop,Electronics,5.0,590.31,0.05,Card,2803.9724999999994,June,2025,6
+ORD1182,2025-05-11,Dev,Mumbai,Mobile,Electronics,3.0,22199.915,0.05,Upi,63269.75774999999,May,2025,5
+ORD1183,2025-08-18,Rohan,Aurangabad,Keyboard,Accessories,5.0,1293.56,0.1,Cash,5821.02,August,2025,8
+ORD1184,2025-11-20,Kabir,Nashik,Keyboard,Accessories,1.0,1188.81,0.0,Cash,1188.81,November,2025,11
+ORD1185,2025-08-20,Ishita,Pune,Mouse,Accessories,1.0,613.03,0.1,Upi,551.727,August,2025,8
+ORD1186,2025-09-17,Dev,Nagpur,Mouse,Accessories,1.0,56897.64,0.0,Net Banking,56897.64,September,2025,9
+ORD1187,2025-06-14,Aarav,Kolhapur,Tablet,Electronics,5.0,18819.92,0.05,Net Banking,89394.61999999998,June,2025,6
+ORD1188,2025-06-25,Aarav,Aurangabad,Keyboard,Accessories,1.0,1311.95,0.05,Upi,1246.3525,June,2025,6
+ORD1189,2025-09-26,Kabir,Pune,Mobile,Electronics,4.0,25240.51,0.1,Card,90865.836,September,2025,9
+ORD1190,2025-06-23,Sana,Aurangabad,Headphones,Accessories,4.0,1750.74,0.1,Upi,6302.664,June,2025,6
+ORD1191,2025-07-17,Kabir,Nashik,Headphones,Accessories,1.0,1831.3,0.05,Cash,1739.735,July,2025,7
+ORD1192,2025-06-29,Sana,Nashik,Mouse,Accessories,5.0,57699.6,0.05,Net Banking,274073.1,June,2025,6
+ORD1193,2025-06-18,Kabir,Mumbai,Headphones,Accessories,5.0,1733.41,0.15,Upi,7366.9925,June,2025,6
+ORD1194,2025-04-20,Priya,Mumbai,Laptop,Electronics,3.0,51846.29,0.05,Net Banking,147761.9265,April,2025,4
+ORD1195,2025-02-21,Unknown,Pune,Mobile,Electronics,2.0,19209.29,0.1,Upi,34576.722,February,2025,2
+ORD1196,2025-03-04,Aarav,Aurangabad,Mouse,Accessories,4.0,582.58,0.15,Card,1980.772,March,2025,3
+ORD1197,2025-02-05,Priya,Mumbai,Keyboard,Accessories,3.0,1263.49,0.15,Cash,3221.8995,February,2025,2
+ORD1198,2025-08-29,Dev,Mumbai,Mouse,Accessories,2.0,612.85,0.15,Upi,1041.845,August,2025,8
+ORD1199,2025-09-15,Priya,Kolhapur,Tablet,Electronics,3.0,19501.87,0.05,Net Banking,55580.3295,September,2025,9
+ORD1200,2025-09-05,Sana,Pune,Tablet,Electronics,5.0,16047.35,0.1,Net Banking,72213.075,September,2025,9
+ORD1201,2025-05-26,Dev,Pune,Monitor,Electronics,5.0,13816.87,0.1,Card,62175.91500000001,May,2025,5
+ORD1202,2025-02-16,Aarav,Mumbai,Mouse,Accessories,2.0,714.55,0.1,Net Banking,1286.19,February,2025,2
+ORD1203,2025-11-07,Kabir,Mumbai,Keyboard,Accessories,1.0,1162.72,0.0,Net Banking,1162.72,November,2025,11
+ORD1204,2025-02-20,Rohan,Aurangabad,Mobile,Electronics,99.0,20803.32,0.05,Cash,1956552.246,February,2025,2
+ORD1205,2025-08-30,Dev,Aurangabad,Laptop,Electronics,3.0,61887.04,0.15,Card,157811.952,August,2025,8
+ORD1206,2025-10-01,Meera,Nashik,Mouse,Accessories,1.0,729.14,0.05,Card,692.683,October,2025,10
+ORD1207,2025-04-03,Dev,Pune,Laptop,Electronics,3.0,50671.06,0.15,Card,129211.203,April,2025,4
+ORD1208,2025-09-13,Rohan,Kolhapur,Laptop,Electronics,1.0,60555.35,0.05,Upi,57527.5825,September,2025,9
+ORD1209,2025-06-30,Sana,Mumbai,Headphones,Accessories,4.0,1530.84,0.05,Net Banking,5817.191999999999,June,2025,6
+ORD1210,2025-09-27,Dev,Kolhapur,Mouse,Accessories,3.0,565.7,0.15,Upi,1442.535,September,2025,9
+ORD1211,2025-10-05,Sana,Aurangabad,Laptop,Electronics,4.0,62937.15,0.1,Upi,226573.74,October,2025,10
+ORD1212,2025-11-18,Aarav,Pune,Headphones,Accessories,2.0,1925.79,0.05,Upi,3659.001,November,2025,11
+ORD1213,2025-11-26,Rohan,Mumbai,Headphones,Accessories,5.0,1792.25,0.15,Net Banking,7617.0625,November,2025,11
+ORD1214,2025-08-23,Aarav,Pune,Tablet,Electronics,2.0,15640.74,0.05,Cash,29717.406,August,2025,8
+ORD1215,2025-11-06,Ishita,Nashik,Tablet,Electronics,2.0,20083.27,0.15,Net Banking,34141.559,November,2025,11
+ORD1216,2025-01-25,Sana,Aurangabad,Laptop,Electronics,2.0,51470.83,0.1,Cash,92647.494,January,2025,1
+ORD1217,2025-07-24,Kabir,Aurangabad,Tablet,Electronics,3.0,17659.54,0.15,Net Banking,45031.827,July,2025,7
+ORD1218,2025-08-07,Meera,Kolhapur,Mobile,Electronics,4.0,23267.65,0.0,Cash,93070.6,August,2025,8
+ORD1219,2025-03-04,Sana,Pune,Laptop,Electronics,4.0,56690.48,0.1,Cash,204085.728,March,2025,3
+ORD1220,2025-06-06,Dev,Nagpur,Laptop,Electronics,3.0,57655.17,0.05,Net Banking,164317.2345,June,2025,6
+ORD1221,2025-06-30,Aarav,Kolhapur,Headphones,Accessories,4.0,1552.87,0.1,Net Banking,5590.331999999999,June,2025,6
+ORD1222,2025-12-14,Dev,Mumbai,Laptop,Electronics,4.0,52744.63,0.05,Upi,200429.594,December,2025,12
+ORD1223,2025-11-27,Aarav,Nashik,Laptop,Electronics,2.0,47859.35,0.15,Cash,81360.89499999999,November,2025,11
+ORD1224,2025-09-07,Rohan,Nashik,Mouse,Accessories,2.0,684.92,0.0,Net Banking,1369.84,September,2025,9
+ORD1225,2025-11-29,Aarav,Nashik,Mouse,Accessories,3.0,630.12,0.0,Net Banking,1890.36,November,2025,11
+ORD1226,2025-07-18,Ishita,Kolhapur,Monitor,Electronics,2.0,12496.41,0.1,Upi,22493.538,July,2025,7
+ORD1227,2025-10-11,Sana,Nashik,Monitor,Electronics,4.0,11429.64,0.05,Net Banking,43432.632,October,2025,10
+ORD1228,2025-08-16,Sana,Pune,Mobile,Electronics,1.0,21683.48,0.1,Cash,19515.132,August,2025,8
+ORD1229,2025-03-06,Priya,Mumbai,Mouse,Accessories,5.0,609.12,0.1,Card,2741.04,March,2025,3
+ORD1230,2025-02-05,Kabir,Nagpur,Laptop,Electronics,2.0,59819.08,0.1,Upi,107674.344,February,2025,2
+ORD1231,2025-02-14,Dev,Pune,Keyboard,Accessories,5.0,1066.72,0.15,Cash,4533.56,February,2025,2
+ORD1232,2025-10-22,Sana,Pune,Mouse,Accessories,4.0,702.49,0.1,Card,2528.964,October,2025,10
+ORD1233,2025-06-26,Meera,Mumbai,Keyboard,Accessories,4.0,1264.84,0.05,Card,4806.392,June,2025,6
+ORD1234,2025-09-23,Rohan,Mumbai,Mouse,Accessories,1.0,714.62,0.05,Cash,678.889,September,2025,9
+ORD1235,2025-09-23,Priya,Nashik,Headphones,Accessories,2.0,1716.85,0.1,Upi,3090.33,September,2025,9
+ORD1236,2025-11-17,Rohan,Nashik,Monitor,Electronics,5.0,11654.19,0.05,Upi,55357.4025,November,2025,11
+ORD1237,2025-06-11,Sana,Nashik,Mobile,Electronics,5.0,23456.18,0.0,Upi,117280.9,June,2025,6
+ORD1238,2025-04-18,Unknown,Kolhapur,Laptop,Electronics,5.0,51116.82,0.0,Net Banking,255584.1,April,2025,4
+ORD1239,2025-04-06,Ishita,Nagpur,Mouse,Accessories,5.0,11711.27,0.15,Card,49772.89750000001,April,2025,4
+ORD1240,2025-03-22,Dev,Pune,Keyboard,Accessories,1.0,1267.9,0.15,Net Banking,1077.715,March,2025,3
+ORD1241,2025-10-06,Meera,Aurangabad,Mobile,Electronics,3.0,22703.96,0.1,Cash,61300.692,October,2025,10
+ORD1242,2025-02-24,Sana,Nashik,Mobile,Electronics,3.0,22098.87,0.15,Card,56352.1185,February,2025,2
+ORD1243,2025-02-19,Meera,Pune,Headphones,Accessories,4.0,1663.88,0.15,Cash,5657.192,February,2025,2
+ORD1244,2025-10-23,Rohan,Aurangabad,Mobile,Electronics,3.0,24068.95,0.05,Cash,68596.5075,October,2025,10
+ORD1245,2025-07-06,Meera,Nagpur,Keyboard,Accessories,5.0,1188.05,0.0,Upi,5940.25,July,2025,7
+ORD1246,2025-04-21,Aarav,Kolhapur,Mouse,Accessories,4.0,741.0,0.0,Cash,2964.0,April,2025,4
+ORD1247,2025-01-12,Aarav,Aurangabad,Headphones,Accessories,4.0,1852.66,0.1,Net Banking,6669.576,January,2025,1
+ORD1248,2025-05-16,Kabir,Aurangabad,Tablet,Electronics,1.0,17627.01,0.15,Cash,14982.9585,May,2025,5
+ORD1249,2025-10-15,Sana,Mumbai,Laptop,Electronics,4.0,47594.1,0.1,Cash,171338.76,October,2025,10
+ORD1250,2025-09-10,Sana,Nashik,Keyboard,Accessories,5.0,1182.13,0.05,Upi,5615.1175,September,2025,9
+ORD1251,2025-06-23,Priya,Kolhapur,Keyboard,Accessories,3.0,1306.16,0.1,Cash,3526.6320000000005,June,2025,6
+ORD1252,2025-01-21,Kabir,Pune,Mouse,Accessories,5.0,630.77,0.05,Upi,2996.1575,January,2025,1
+ORD1253,2025-03-18,Kabir,Kolhapur,Tablet,Electronics,4.0,18104.4,0.1,Card,65175.84,March,2025,3
+ORD1254,2025-03-06,Ishita,Kolhapur,Mobile,Electronics,4.0,25238.06,0.15,Upi,85809.404,March,2025,3
+ORD1255,2025-12-11,Aarav,Pune,Keyboard,Accessories,1.0,1152.61,0.1,Net Banking,1037.349,December,2025,12
+ORD1256,2025-02-12,Dev,Kolhapur,Mouse,Accessories,4.0,604.28,0.0,Card,2417.12,February,2025,2
+ORD1257,2025-11-14,Aarav,Nagpur,Mobile,Electronics,5.0,22851.57,0.05,Upi,108544.9575,November,2025,11
+ORD1258,2025-08-14,Meera,Nashik,Mouse,Accessories,3.0,589.7,0.05,Net Banking,1680.645,August,2025,8
+ORD1259,2025-10-11,Priya,Nagpur,Monitor,Electronics,2.0,12163.92,0.05,Upi,23111.448,October,2025,10
+ORD1260,2025-02-09,Rohan,Pune,Mouse,Accessories,3.0,747.13,0.1,Net Banking,2017.251,February,2025,2
+ORD1261,2025-07-01,Priya,Aurangabad,Keyboard,Accessories,5.0,1143.24,0.15,Cash,4858.77,July,2025,7
+ORD1262,2025-04-26,Dev,Nashik,Mobile,Electronics,3.0,22383.37,0.05,Cash,63792.6045,April,2025,4
+ORD1263,2025-05-21,Meera,Nashik,Headphones,Accessories,3.0,1718.35,0.15,Upi,4381.7925,May,2025,5
+ORD1264,2025-03-16,Sana,Nashik,Tablet,Electronics,3.0,20454.89,0.1,Upi,55228.203,March,2025,3
+ORD1265,2025-03-09,Ishita,Mumbai,Headphones,Accessories,4.0,1884.22,0.1,Cash,6783.192,March,2025,3
+ORD1266,2025-10-28,Priya,Mumbai,Mobile,Electronics,1.0,22763.47,0.0,Card,22763.47,October,2025,10
+ORD1267,2025-07-31,Rohan,Nashik,Monitor,Electronics,2.0,10821.84,0.0,Net Banking,21643.68,July,2025,7
+ORD1268,2025-03-22,Priya,Nagpur,Laptop,Electronics,3.0,62885.53,0.15,Net Banking,160358.1015,March,2025,3
+ORD1269,2025-11-27,Aarav,Pune,Tablet,Electronics,3.0,17034.31,0.05,Upi,48547.783500000005,November,2025,11
+ORD1270,2025-01-04,Rohan,Pune,Mobile,Electronics,4.0,24522.82,0.1,Net Banking,88282.152,January,2025,1
+ORD1271,2025-05-01,Ishita,Nashik,Monitor,Electronics,3.0,13912.79,0.1,Upi,37564.533,May,2025,5
+ORD1272,2025-10-03,Priya,Kolhapur,Keyboard,Accessories,5.0,1208.75,0.1,Net Banking,5439.375,October,2025,10
+ORD1273,2025-08-23,Aarav,Aurangabad,Tablet,Electronics,1.0,17085.69,0.05,Cash,16231.405499999995,August,2025,8
+ORD1274,2025-10-18,Meera,Aurangabad,Mobile,Electronics,3.0,13590.38,0.05,Card,38732.583,October,2025,10
+ORD1275,2025-02-14,Rohan,Nagpur,Tablet,Electronics,4.0,18082.52,0.05,Upi,68713.576,February,2025,2
+ORD1276,2025-01-04,Dev,Nashik,Keyboard,Accessories,3.0,1356.9,0.05,Net Banking,3867.165,January,2025,1
+ORD1277,2025-04-06,Kabir,Kolhapur,Tablet,Electronics,3.0,20451.79,0.1,Upi,55219.833000000006,April,2025,4
+ORD1278,2025-02-03,Meera,Nagpur,Monitor,Electronics,2.0,10857.97,0.05,Cash,20630.143,February,2025,2
+ORD1279,2025-12-27,Kabir,Nashik,Monitor,Electronics,5.0,14086.65,0.1,Upi,63389.925,December,2025,12
+ORD1280,2025-10-03,Kabir,Nagpur,Mouse,Accessories,2.0,595.23,0.15,Card,1011.891,October,2025,10
+ORD1281,2025-03-10,Sana,Aurangabad,Keyboard,Accessories,5.0,1348.61,0.05,Card,6405.897499999999,March,2025,3
+ORD1282,2025-05-07,Priya,Pune,Mouse,Accessories,4.0,655.49,0.0,Upi,2621.96,May,2025,5
+ORD1283,2025-06-17,Priya,Kolhapur,Mouse,Accessories,5.0,581.72,0.0,Net Banking,2908.6000000000004,June,2025,6
+ORD1284,2025-09-19,Rohan,Nagpur,Monitor,Electronics,5.0,12458.1,0.15,Upi,52946.925,September,2025,9
+ORD1285,2025-01-30,Aarav,Kolhapur,Mouse,Accessories,4.0,641.58,0.1,Net Banking,2309.688,January,2025,1
+ORD1286,2025-04-22,Meera,Kolhapur,Keyboard,Accessories,3.0,1313.92,0.0,Upi,3941.76,April,2025,4
+ORD1287,2025-01-31,Ishita,Pune,Headphones,Accessories,1.0,1822.23,0.0,Net Banking,1822.23,January,2025,1
+ORD1288,2025-11-25,Meera,Aurangabad,Keyboard,Accessories,2.0,1296.83,0.1,Net Banking,2334.294,November,2025,11
+ORD1289,2025-12-16,Sana,Aurangabad,Keyboard,Accessories,4.0,1155.23,0.1,Card,4158.828,December,2025,12
+ORD1290,2025-07-03,Aarav,Aurangabad,Mobile,Electronics,5.0,21294.19,0.0,Card,106470.95,July,2025,7
+ORD1291,2025-06-10,Priya,Nagpur,Mouse,Accessories,4.0,1893.69,0.05,Net Banking,7196.022,June,2025,6
+ORD1292,2025-07-04,Meera,Aurangabad,Keyboard,Accessories,3.0,1075.84,0.0,Upi,3227.5199999999995,July,2025,7
+ORD1293,2025-04-02,Aarav,Pune,Mouse,Accessories,1.0,599.43,0.15,Upi,509.5154999999999,April,2025,4
+ORD1294,2025-04-30,Rohan,Kolhapur,Mobile,Electronics,1.0,21354.95,0.0,Card,21354.95,April,2025,4
+ORD1295,2025-10-22,Ishita,Nashik,Headphones,Accessories,99.0,598.16,0.05,Cash,56256.948,October,2025,10
+ORD1296,2025-03-06,Meera,Nashik,Mobile,Electronics,5.0,20158.88,0.05,Upi,95754.68,March,2025,3
+ORD1297,2025-06-26,Meera,Aurangabad,Mouse,Accessories,4.0,561.64,0.1,Card,2021.904,June,2025,6
+ORD1298,2025-05-04,Priya,Nashik,Keyboard,Accessories,2.0,1127.96,0.05,Upi,2143.124,May,2025,5
+ORD1299,2025-01-30,Rohan,Kolhapur,Headphones,Accessories,2.0,1792.25,0.15,Net Banking,3046.825,January,2025,1
+ORD1300,2025-06-19,Kabir,Aurangabad,Keyboard,Accessories,2.0,1111.8,0.15,Upi,1890.06,June,2025,6
+ORD1301,2025-08-04,Aarav,Pune,Laptop,Electronics,5.0,58705.65,0.15,Cash,249499.0125,August,2025,8
+ORD1302,2025-10-28,Priya,Aurangabad,Tablet,Electronics,1.0,16316.08,0.15,Card,13868.668,October,2025,10
+ORD1303,2025-08-01,Dev,Mumbai,Tablet,Electronics,3.0,16937.22,0.0,Card,50811.66,August,2025,8
+ORD1304,2025-07-23,Meera,Mumbai,Mobile,Electronics,5.0,23344.87,0.1,Cash,105051.915,July,2025,7
+ORD1305,2025-07-06,Dev,Nashik,Keyboard,Accessories,5.0,1253.54,0.15,Upi,5327.545,July,2025,7
+ORD1306,2025-06-13,Meera,Mumbai,Laptop,Electronics,4.0,59316.88,0.1,Cash,213540.768,June,2025,6
+ORD1307,2025-03-16,Unknown,Pune,Laptop,Electronics,5.0,61007.4,0.15,Cash,259281.45,March,2025,3
+ORD1308,2025-07-14,Kabir,Kolhapur,Mobile,Electronics,2.0,20877.11,0.15,Card,35491.087,July,2025,7
+ORD1309,2025-11-25,Rohan,Aurangabad,Headphones,Accessories,4.0,2051.91,0.15,Net Banking,6976.494,November,2025,11
+ORD1310,2025-07-10,Aarav,Nagpur,Monitor,Electronics,3.0,12090.615,0.0,Card,36271.845,July,2025,7
+ORD1311,2025-09-12,Rohan,Pune,Tablet,Electronics,1.0,20404.02,0.15,Upi,17343.417,September,2025,9
+ORD1312,2025-03-19,Kabir,Pune,Tablet,Electronics,2.0,15667.03,0.15,Card,26633.951,March,2025,3
+ORD1313,2025-12-11,Aarav,Nagpur,Laptop,Electronics,5.0,57272.52,0.0,Net Banking,286362.6,December,2025,12
+ORD1314,2025-09-01,Aarav,Kolhapur,Mouse,Accessories,5.0,632.71,0.1,Cash,2847.195,September,2025,9
+ORD1315,2025-02-04,Priya,Pune,Mouse,Accessories,4.0,644.03,0.05,Upi,2447.314,February,2025,2
+ORD1316,2025-01-07,Kabir,Nashik,Mobile,Electronics,5.0,22174.61,0.0,Net Banking,110873.05,January,2025,1
+ORD1317,2025-12-23,Aarav,Mumbai,Keyboard,Accessories,4.0,1223.4,0.0,Cash,4893.6,December,2025,12
+ORD1318,2025-10-10,Rohan,Nashik,Laptop,Electronics,4.0,53007.86,0.0,Upi,212031.44,October,2025,10
+ORD1319,2025-11-27,Priya,Nashik,Laptop,Electronics,4.0,60697.94,0.0,Upi,242791.76,November,2025,11
+ORD1320,2025-01-24,Unknown,Pune,Mobile,Electronics,5.0,21838.3,0.0,Cash,109191.5,January,2025,1
+ORD1321,2025-04-17,Sana,Kolhapur,Tablet,Electronics,3.0,15384.55,0.15,Card,39230.60249999999,April,2025,4
+ORD1322,2025-10-18,Rohan,Nagpur,Headphones,Accessories,2.0,1834.54,0.15,Cash,3118.718,October,2025,10
+ORD1323,2025-06-27,Priya,Pune,Tablet,Electronics,1.0,18004.28,0.15,Upi,15303.638,June,2025,6
+ORD1324,2025-11-11,Aarav,Kolhapur,Tablet,Electronics,1.0,17139.2,0.1,Net Banking,15425.28,November,2025,11
+ORD1325,2025-08-19,Meera,Nagpur,Monitor,Electronics,3.0,12090.615,0.1,Card,32644.6605,August,2025,8
+ORD1326,2025-05-12,Priya,Nagpur,Keyboard,Accessories,2.0,1264.69,0.1,Upi,2276.442,May,2025,5
+ORD1327,2025-03-20,Kabir,Nagpur,Monitor,Electronics,1.0,10932.64,0.15,Card,9292.744,March,2025,3
+ORD1328,2025-07-06,Sana,Nagpur,Headphones,Accessories,1.0,1579.42,0.1,Cash,1421.478,July,2025,7
+ORD1329,2025-08-18,Aarav,Kolhapur,Mobile,Electronics,1.0,19936.79,0.0,Net Banking,19936.79,August,2025,8
+ORD1330,2025-02-11,Aarav,Kolhapur,Laptop,Electronics,3.0,55894.63,0.15,Cash,142531.30649999998,February,2025,2
+ORD1331,2025-02-13,Meera,Aurangabad,Headphones,Accessories,4.0,1739.41,0.05,Card,6609.758,February,2025,2
+ORD1332,2025-05-18,Rohan,Nagpur,Mobile,Electronics,2.0,20474.87,0.0,Card,40949.74,May,2025,5
+ORD1333,2025-05-09,Priya,Pune,Keyboard,Accessories,3.0,1171.6,0.1,Cash,3163.32,May,2025,5
+ORD1334,2025-11-04,Ishita,Nagpur,Laptop,Electronics,4.0,12851.77,0.05,Upi,48836.726,November,2025,11
+ORD1335,2025-11-14,Kabir,Nagpur,Laptop,Electronics,4.0,52231.58,0.15,Cash,177587.372,November,2025,11
+ORD1336,2025-06-14,Kabir,Kolhapur,Keyboard,Accessories,5.0,1069.0,0.15,Card,4543.25,June,2025,6
+ORD1337,2025-05-30,Kabir,Aurangabad,Mobile,Electronics,4.0,25093.59,0.05,Net Banking,95355.642,May,2025,5
+ORD1338,2025-07-21,Rohan,Nashik,Keyboard,Accessories,3.0,1313.94,0.05,Upi,3744.729,July,2025,7
+ORD1339,2025-08-25,Ishita,Aurangabad,Monitor,Electronics,5.0,10725.94,0.15,Card,45585.245,August,2025,8
+ORD1340,2025-07-29,Ishita,Aurangabad,Tablet,Electronics,1.0,19722.41,0.05,Net Banking,18736.2895,July,2025,7
+ORD1341,2025-05-08,Dev,Nagpur,Mobile,Electronics,3.0,23047.18,0.15,Upi,58770.30900000001,May,2025,5
+ORD1342,2025-12-21,Sana,Pune,Mouse,Accessories,4.0,656.7,0.1,Upi,2364.1200000000003,December,2025,12
+ORD1343,2025-01-07,Kabir,Mumbai,Laptop,Electronics,2.0,57600.43,0.15,Upi,97920.731,January,2025,1
+ORD1344,2025-02-20,Dev,Nashik,Tablet,Electronics,4.0,15872.1,0.05,Card,60313.98,February,2025,2
+ORD1345,2025-12-14,Aarav,Kolhapur,Headphones,Accessories,4.0,1780.05,0.1,Card,6408.18,December,2025,12
+ORD1346,2025-02-13,Unknown,Pune,Keyboard,Accessories,1.0,1126.36,0.1,Card,1013.724,February,2025,2
+ORD1347,2025-09-24,Sana,Nagpur,Headphones,Accessories,4.0,1953.51,0.15,Upi,6641.934,September,2025,9
+ORD1348,2025-06-03,Kabir,Pune,Keyboard,Accessories,4.0,1134.81,0.0,Upi,4539.24,June,2025,6
+ORD1349,2025-03-26,Rohan,Aurangabad,Monitor,Electronics,1.0,13164.27,0.05,Card,12506.0565,March,2025,3
+ORD1350,2025-08-25,Rohan,Mumbai,Headphones,Accessories,5.0,1760.24,0.05,Net Banking,8361.14,August,2025,8
+ORD1351,2025-11-11,Meera,Mumbai,Monitor,Electronics,4.0,12108.43,0.15,Net Banking,41168.662,November,2025,11
+ORD1352,2025-12-27,Kabir,Pune,Laptop,Electronics,2.0,50145.44,0.05,Upi,95276.336,December,2025,12
+ORD1353,2025-05-15,Meera,Aurangabad,Headphones,Accessories,2.0,1777.08,0.1,Net Banking,3198.744,May,2025,5
+ORD1354,2025-06-28,Ishita,Nashik,Mouse,Accessories,4.0,666.97,0.05,Net Banking,2534.486,June,2025,6
+ORD1355,2025-10-03,Ishita,Nashik,Mouse,Accessories,5.0,569.03,0.05,Upi,2702.8924999999995,October,2025,10
+ORD1356,2025-03-14,Rohan,Kolhapur,Laptop,Electronics,2.0,52909.55,0.15,Net Banking,89946.235,March,2025,3
+ORD1357,2025-07-09,Dev,Aurangabad,Mouse,Accessories,4.0,634.99,0.05,Card,2412.962,July,2025,7
+ORD1358,2025-08-19,Aarav,Kolhapur,Headphones,Accessories,2.0,1631.03,0.1,Upi,2935.854,August,2025,8
+ORD1359,2025-07-16,Dev,Kolhapur,Mouse,Accessories,2.0,1090.25,0.15,Net Banking,1853.425,July,2025,7
+ORD1360,2025-12-02,Ishita,Kolhapur,Keyboard,Accessories,4.0,1195.93,0.05,Upi,4544.534,December,2025,12
+ORD1361,2025-05-28,Sana,Mumbai,Laptop,Electronics,3.0,50459.92,0.15,Net Banking,128672.796,May,2025,5
+ORD1362,2025-06-10,Priya,Pune,Mouse,Accessories,1.0,604.74,0.15,Upi,514.029,June,2025,6
+ORD1363,2025-01-12,Dev,Mumbai,Keyboard,Accessories,1.0,1284.96,0.0,Cash,1284.96,January,2025,1
+ORD1364,2025-02-14,Priya,Nagpur,Headphones,Accessories,3.0,1995.59,0.05,Upi,5687.4315,February,2025,2
+ORD1365,2025-12-30,Rohan,Kolhapur,Tablet,Electronics,5.0,19021.32,0.05,Net Banking,90351.27,December,2025,12
+ORD1366,2025-01-31,Rohan,Kolhapur,Tablet,Electronics,2.0,19693.06,0.1,Cash,35447.508,January,2025,1
+ORD1367,2025-05-17,Meera,Kolhapur,Headphones,Accessories,3.0,1686.24,0.05,Upi,4805.784,May,2025,5
+ORD1368,2025-06-03,Rohan,Aurangabad,Laptop,Electronics,3.0,61056.29,0.05,Card,174010.4265,June,2025,6
+ORD1369,2025-12-13,Ishita,Nagpur,Monitor,Electronics,3.0,13731.81,0.05,Net Banking,39135.6585,December,2025,12
+ORD1370,2025-08-02,Ishita,Aurangabad,Monitor,Electronics,4.0,12031.9,0.15,Upi,40908.46,August,2025,8
+ORD1371,2025-07-09,Dev,Nashik,Monitor,Electronics,3.0,12330.11,0.0,Upi,36990.33,July,2025,7
+ORD1372,2025-01-10,Priya,Pune,Monitor,Electronics,3.0,13812.9,0.15,Card,35222.895,January,2025,1
+ORD1373,2025-05-26,Kabir,Nashik,Keyboard,Accessories,3.0,1136.23,0.15,Card,2897.3865,May,2025,5
+ORD1374,2025-11-17,Rohan,Nagpur,Monitor,Electronics,1.0,10797.29,0.0,Upi,10797.29,November,2025,11
+ORD1375,2025-08-08,Rohan,Pune,Keyboard,Accessories,4.0,1020.24,0.1,Card,3672.864,August,2025,8
+ORD1376,2025-04-07,Rohan,Nashik,Tablet,Electronics,3.0,15804.04,0.1,Upi,42670.908,April,2025,4
+ORD1377,2025-12-25,Sana,Mumbai,Laptop,Electronics,4.0,57072.47,0.0,Net Banking,228289.88,December,2025,12
+ORD1378,2025-09-03,Aarav,Pune,Laptop,Electronics,2.0,54617.31,0.15,Card,92849.427,September,2025,9
+ORD1379,2025-05-08,Sana,Mumbai,Laptop,Electronics,3.0,60232.3,0.15,Card,153592.36500000002,May,2025,5
+ORD1380,2025-02-22,Ishita,Pune,Mobile,Electronics,4.0,19289.59,0.1,Cash,69442.524,February,2025,2
+ORD1381,2025-03-10,Aarav,Aurangabad,Mobile,Electronics,4.0,23804.84,0.0,Card,95219.36,March,2025,3
+ORD1382,2025-04-20,Dev,Aurangabad,Mouse,Accessories,2.0,638.32,0.15,Card,1085.144,April,2025,4
+ORD1383,2025-02-21,Kabir,Mumbai,Tablet,Electronics,2.0,15768.12,0.15,Upi,26805.804,February,2025,2
+ORD1384,2025-07-05,Ishita,Nashik,Laptop,Electronics,3.0,1304.79,0.05,Upi,3718.6515,July,2025,7
+ORD1385,2025-04-12,Meera,Nashik,Tablet,Electronics,1.0,19878.62,0.05,Card,18884.689,April,2025,4
+ORD1386,2025-03-05,Priya,Nagpur,Headphones,Accessories,1.0,1953.25,0.0,Net Banking,1953.25,March,2025,3
+ORD1387,2025-07-01,Meera,Nashik,Keyboard,Accessories,5.0,1045.56,0.05,Cash,4966.409999999999,July,2025,7
+ORD1388,2025-07-10,Sana,Aurangabad,Tablet,Electronics,5.0,17572.66,0.15,Card,74683.80500000001,July,2025,7
+ORD1389,2025-05-15,Meera,Pune,Laptop,Electronics,5.0,47864.29,0.0,Upi,239321.45,May,2025,5
+ORD1390,2025-09-14,Sana,Nagpur,Mouse,Accessories,3.0,675.07,0.15,Net Banking,1721.4285,September,2025,9
+ORD1391,2025-03-20,Sana,Nashik,Monitor,Electronics,5.0,12641.21,0.1,Upi,56885.445,March,2025,3
+ORD1392,2025-03-21,Sana,Kolhapur,Mouse,Accessories,2.0,742.49,0.15,Cash,1262.233,March,2025,3
+ORD1393,2025-03-05,Meera,Pune,Headphones,Accessories,4.0,1924.18,0.0,Card,7696.72,March,2025,3
+ORD1394,2025-01-29,Aarav,Nashik,Laptop,Electronics,4.0,56852.9,0.0,Card,227411.6,January,2025,1
+ORD1395,2025-03-25,Unknown,Pune,Monitor,Electronics,2.0,13255.62,0.1,Cash,23860.116,March,2025,3
+ORD1396,2025-05-18,Kabir,Aurangabad,Headphones,Accessories,2.0,1934.88,0.0,Upi,3869.76,May,2025,5
+ORD1397,2025-02-02,Dev,Nashik,Tablet,Electronics,4.0,16768.7,0.15,Upi,57013.58,February,2025,2
+ORD1398,2025-10-18,Ishita,Mumbai,Mouse,Accessories,3.0,563.31,0.05,Cash,1605.4335,October,2025,10
+ORD1399,2025-12-12,Aarav,Aurangabad,Tablet,Electronics,1.0,20129.05,0.05,Upi,19122.5975,December,2025,12
+ORD1400,2025-08-30,Rohan,Nashik,Laptop,Electronics,1.0,50785.1,0.05,Net Banking,48245.845,August,2025,8
+ORD1401,2025-02-12,Priya,Nagpur,Tablet,Electronics,1.0,17707.93,0.1,Card,15937.137,February,2025,2
+ORD1402,2025-09-02,Aarav,Kolhapur,Keyboard,Accessories,3.0,1117.65,0.0,Cash,3352.9500000000003,September,2025,9
+ORD1403,2025-01-24,Ishita,Nagpur,Mobile,Electronics,2.0,24008.63,0.15,Upi,40814.671,January,2025,1
+ORD1404,2025-11-10,Priya,Nagpur,Tablet,Electronics,3.0,17067.42,0.1,Upi,46082.034,November,2025,11
+ORD1405,2025-11-15,Dev,Mumbai,Headphones,Accessories,5.0,1953.63,0.1,Net Banking,8791.335000000001,November,2025,11
+ORD1406,2025-07-10,Meera,Mumbai,Tablet,Electronics,2.0,19255.3,0.0,Card,38510.6,July,2025,7
+ORD1407,2025-11-22,Aarav,Pune,Laptop,Electronics,2.0,55685.5,0.1,Upi,100233.9,November,2025,11
+ORD1408,2025-07-06,Meera,Pune,Tablet,Electronics,4.0,19884.63,0.05,Card,75561.594,July,2025,7
+ORD1409,2025-03-14,Aarav,Mumbai,Keyboard,Accessories,1.0,1370.12,0.0,Cash,1370.12,March,2025,3
+ORD1410,2025-10-07,Rohan,Nagpur,Mobile,Electronics,5.0,21426.17,0.0,Upi,107130.85,October,2025,10
+ORD1411,2025-10-18,Priya,Mumbai,Monitor,Electronics,4.0,10905.61,0.05,Net Banking,41441.318,October,2025,10
+ORD1412,2025-07-21,Dev,Aurangabad,Headphones,Accessories,3.0,1989.49,0.1,Cash,5371.6230000000005,July,2025,7
+ORD1413,2025-04-14,Sana,Mumbai,Headphones,Accessories,2.0,1570.33,0.05,Upi,2983.6269999999995,April,2025,4
+ORD1414,2025-07-28,Dev,Pune,Mobile,Electronics,4.0,21775.96,0.05,Cash,82748.64799999999,July,2025,7
+ORD1415,2025-03-03,Aarav,Pune,Headphones,Accessories,4.0,1673.1,0.1,Card,6023.16,March,2025,3
+ORD1416,2025-12-31,Aarav,Mumbai,Mobile,Electronics,3.0,19678.94,0.15,Cash,50181.29699999999,December,2025,12
+ORD1417,2025-03-31,Priya,Pune,Monitor,Electronics,3.0,11600.63,0.15,Net Banking,29581.6065,March,2025,3
+ORD1418,2025-03-13,Priya,Pune,Laptop,Electronics,4.0,48431.47,0.0,Upi,193725.88,March,2025,3
+ORD1419,2025-10-07,Sana,Aurangabad,Mobile,Electronics,2.0,24136.24,0.1,Upi,43445.232,October,2025,10
+ORD1420,2025-11-27,Kabir,Nagpur,Laptop,Electronics,1.0,50012.88,0.0,Card,50012.88,November,2025,11
+ORD1421,2025-01-26,Dev,Mumbai,Laptop,Electronics,1.0,62297.63,0.15,Net Banking,52952.9855,January,2025,1
+ORD1422,2025-03-30,Ishita,Nashik,Laptop,Electronics,3.0,55621.455,0.05,Card,158521.14675,March,2025,3
+ORD1423,2025-01-18,Dev,Kolhapur,Mouse,Accessories,4.0,2007.05,0.1,Card,7225.38,January,2025,1
+ORD1424,2025-02-14,Meera,Nashik,Keyboard,Accessories,5.0,1192.45,0.05,Net Banking,5664.1375,February,2025,2
+ORD1425,2025-06-10,Dev,Pune,Mobile,Electronics,5.0,20344.38,0.1,Net Banking,91549.71,June,2025,6
+ORD1426,2025-10-17,Ishita,Kolhapur,Mouse,Accessories,4.0,619.59,0.15,Cash,2106.606,October,2025,10
+ORD1427,2025-04-23,Dev,Pune,Mobile,Electronics,1.0,20804.59,0.0,Net Banking,20804.59,April,2025,4
+ORD1428,2025-04-30,Priya,Mumbai,Mouse,Accessories,3.0,702.03,0.05,Upi,2000.7855,April,2025,4
+ORD1429,2025-01-29,Rohan,Mumbai,Headphones,Accessories,5.0,1970.79,0.1,Card,8868.555,January,2025,1
+ORD1430,2025-12-24,Rohan,Nashik,Mobile,Electronics,2.0,22610.63,0.1,Upi,40699.134000000005,December,2025,12
+ORD1431,2025-10-09,Unknown,Kolhapur,Mouse,Accessories,2.0,715.66,0.05,Cash,1359.754,October,2025,10
+ORD1432,2025-05-11,Aarav,Mumbai,Laptop,Electronics,1.0,47676.77,0.15,Upi,40525.2545,May,2025,5
+ORD1433,2025-08-03,Aarav,Pune,Headphones,Accessories,5.0,1638.79,0.1,Card,7374.555000000001,August,2025,8
+ORD1434,2025-03-14,Kabir,Pune,Laptop,Electronics,2.0,56429.05,0.0,Cash,112858.1,March,2025,3
+ORD1435,2025-06-22,Rohan,Nashik,Monitor,Electronics,4.0,12822.56,0.05,Cash,48725.728,June,2025,6
+ORD1436,2025-07-09,Kabir,Aurangabad,Monitor,Electronics,3.0,13594.41,0.05,Cash,38744.0685,July,2025,7
+ORD1437,2025-07-13,Rohan,Nashik,Mobile,Electronics,5.0,24075.4,0.05,Cash,114358.15,July,2025,7
+ORD1438,2025-10-21,Kabir,Nagpur,Monitor,Electronics,1.0,14182.96,0.05,Upi,13473.811999999998,October,2025,10
+ORD1439,2025-10-17,Kabir,Pune,Headphones,Accessories,5.0,16492.83,0.05,Net Banking,78340.9425,October,2025,10
+ORD1440,2025-06-13,Dev,Mumbai,Monitor,Electronics,1.0,11517.48,0.1,Upi,10365.732,June,2025,6
+ORD1441,2025-12-21,Sana,Pune,Laptop,Electronics,3.0,50209.79,0.1,Cash,135566.433,December,2025,12
+ORD1442,2025-08-13,Meera,Aurangabad,Monitor,Electronics,1.0,10805.55,0.05,Net Banking,10265.2725,August,2025,8
+ORD1443,2025-12-07,Rohan,Pune,Keyboard,Accessories,4.0,1206.385,0.05,Net Banking,4584.263,December,2025,12
+ORD1444,2025-01-18,Ishita,Nashik,Keyboard,Accessories,1.0,1307.71,0.1,Upi,1176.939,January,2025,1
+ORD1445,2025-12-07,Kabir,Mumbai,Laptop,Electronics,1.0,52389.84,0.1,Upi,47150.856,December,2025,12
+ORD1446,2025-12-27,Meera,Pune,Mouse,Accessories,5.0,726.68,0.05,Net Banking,3451.73,December,2025,12
+ORD1447,2025-04-16,Ishita,Mumbai,Mobile,Electronics,1.0,19368.3,0.1,Net Banking,17431.47,April,2025,4
+ORD1448,2025-07-21,Aarav,Kolhapur,Headphones,Accessories,2.0,1581.79,0.05,Net Banking,3005.401,July,2025,7
+ORD1449,2025-05-31,Sana,Aurangabad,Headphones,Accessories,1.0,1760.91,0.05,Net Banking,1672.8645,May,2025,5
+ORD1450,2025-05-30,Unknown,Pune,Laptop,Electronics,2.0,49568.73,0.0,Cash,99137.46,May,2025,5
+ORD1451,2025-05-12,Rohan,Pune,Tablet,Electronics,4.0,17843.1,0.15,Upi,60666.53999999999,May,2025,5
+ORD1452,2025-08-17,Dev,Pune,Headphones,Accessories,4.0,1729.48,0.15,Cash,5880.232,August,2025,8
+ORD1453,2025-10-16,Sana,Pune,Headphones,Accessories,2.0,1982.02,0.0,Card,3964.04,October,2025,10
+ORD1454,2025-07-31,Meera,Pune,Monitor,Electronics,3.0,13655.68,0.0,Card,40967.04,July,2025,7
+ORD1455,2025-02-10,Dev,Aurangabad,Tablet,Electronics,5.0,17560.61,0.05,Net Banking,83412.89749999999,February,2025,2
+ORD1456,2025-01-18,Dev,Kolhapur,Headphones,Accessories,3.0,1743.19,0.0,Card,5229.57,January,2025,1
+ORD1457,2025-04-09,Sana,Mumbai,Mobile,Electronics,2.0,25116.29,0.15,Upi,42697.693,April,2025,4
+ORD1458,2025-11-18,Sana,Mumbai,Monitor,Electronics,4.0,11382.2,0.1,Cash,40975.920000000006,November,2025,11
+ORD1459,2025-10-10,Aarav,Nashik,Laptop,Electronics,4.0,55930.01,0.15,Cash,190162.034,October,2025,10
+ORD1460,2025-03-08,Rohan,Pune,Tablet,Electronics,3.0,17707.93,0.05,Net Banking,50467.6005,March,2025,3
+ORD1461,2025-02-21,Kabir,Pune,Mouse,Accessories,5.0,666.12,0.1,Upi,2997.54,February,2025,2
+ORD1462,2025-06-09,Rohan,Kolhapur,Keyboard,Accessories,3.0,1157.9,0.0,Net Banking,3473.7000000000003,June,2025,6
+ORD1463,2025-08-11,Meera,Aurangabad,Headphones,Accessories,4.0,1607.68,0.0,Net Banking,6430.72,August,2025,8
+ORD1464,2025-01-09,Kabir,Nashik,Headphones,Accessories,2.0,1556.62,0.0,Cash,3113.24,January,2025,1
+ORD1465,2025-09-09,Rohan,Aurangabad,Tablet,Electronics,3.0,16979.13,0.05,Upi,48390.5205,September,2025,9
+ORD1466,2025-06-14,Priya,Nashik,Headphones,Accessories,4.0,1947.98,0.0,Net Banking,7791.92,June,2025,6
+ORD1467,2025-07-28,Aarav,Aurangabad,Keyboard,Accessories,2.0,1348.84,0.1,Net Banking,2427.912,July,2025,7
+ORD1468,2025-12-30,Aarav,Kolhapur,Mouse,Accessories,2.0,644.03,0.05,Net Banking,1223.657,December,2025,12
+ORD1469,2025-04-13,Dev,Pune,Mobile,Electronics,2.0,24476.19,0.0,Card,48952.38,April,2025,4
+ORD1470,2025-05-21,Sana,Pune,Laptop,Electronics,3.0,58376.46,0.15,Net Banking,148859.973,May,2025,5
+ORD1471,2025-08-09,Dev,Kolhapur,Monitor,Electronics,1.0,11532.27,0.05,Net Banking,10955.6565,August,2025,8
+ORD1472,2025-03-25,Aarav,Nashik,Mouse,Accessories,3.0,620.7,0.1,Upi,1675.89,March,2025,3
+ORD1473,2025-10-20,Unknown,Mumbai,Keyboard,Accessories,1.0,1078.65,0.05,Card,1024.7175,October,2025,10
+ORD1474,2025-12-16,Rohan,Pune,Headphones,Accessories,4.0,1807.17,0.05,Net Banking,6867.246,December,2025,12
+ORD1475,2025-08-11,Meera,Nashik,Mouse,Accessories,1.0,596.14,0.15,Cash,506.719,August,2025,8
+ORD1476,2025-04-22,Sana,Nagpur,Tablet,Electronics,3.0,17778.59,0.15,Cash,45335.4045,April,2025,4
+ORD1477,2025-11-07,Sana,Kolhapur,Laptop,Electronics,5.0,63240.58,0.1,Cash,284582.61000000004,November,2025,11
+ORD1478,2025-05-22,Ishita,Aurangabad,Keyboard,Accessories,1.0,1141.06,0.1,Cash,1026.954,May,2025,5
+ORD1479,2025-09-22,Kabir,Mumbai,Monitor,Electronics,3.0,11331.35,0.15,Upi,28894.9425,September,2025,9
+ORD1480,2025-02-12,Meera,Nagpur,Monitor,Electronics,2.0,13329.81,0.1,Cash,23993.658,February,2025,2
+ORD1481,2025-10-26,Priya,Aurangabad,Keyboard,Accessories,4.0,1285.22,0.1,Card,4626.792,October,2025,10
+ORD1482,2025-01-09,Rohan,Aurangabad,Monitor,Electronics,5.0,13018.68,0.1,Cash,58584.060000000005,January,2025,1
+ORD1483,2025-02-19,Rohan,Nagpur,Tablet,Electronics,5.0,16278.13,0.1,Card,73251.58499999999,February,2025,2
+ORD1484,2025-04-24,Meera,Nashik,Mouse,Accessories,3.0,13079.13,0.1,Card,35313.651,April,2025,4
+ORD1485,2025-10-27,Dev,Nashik,Tablet,Electronics,3.0,17307.09,0.0,Net Banking,51921.27,October,2025,10
+ORD1486,2025-11-14,Sana,Pune,Laptop,Electronics,5.0,56325.17,0.05,Net Banking,267544.55749999994,November,2025,11
+ORD1487,2025-07-31,Priya,Pune,Tablet,Electronics,4.0,18161.13,0.05,Card,69012.294,July,2025,7
+ORD1488,2025-08-23,Sana,Mumbai,Headphones,Accessories,4.0,2063.08,0.05,Cash,7839.704,August,2025,8
+ORD1489,2025-01-04,Dev,Nashik,Keyboard,Accessories,3.0,1247.17,0.0,Upi,3741.51,January,2025,1
+ORD1490,2025-03-28,Sana,Kolhapur,Headphones,Accessories,2.0,1941.04,0.15,Card,3299.768,March,2025,3
+ORD1491,2025-08-08,Meera,Nagpur,Mobile,Electronics,5.0,21562.5,0.15,Cash,91640.625,August,2025,8
+ORD1492,2025-11-07,Aarav,Pune,Laptop,Electronics,1.0,55557.41,0.05,Cash,52779.5395,November,2025,11
+ORD1493,2025-08-05,Rohan,Mumbai,Monitor,Electronics,1.0,12975.08,0.1,Cash,11677.572,August,2025,8
+ORD1494,2025-06-06,Ishita,Pune,Laptop,Electronics,4.0,55055.05,0.0,Upi,220220.2,June,2025,6
+ORD1495,2025-02-11,Rohan,Kolhapur,Headphones,Accessories,4.0,1923.03,0.15,Cash,6538.302,February,2025,2
+ORD1496,2025-07-04,Priya,Pune,Headphones,Accessories,4.0,1724.0,0.0,Net Banking,6896.0,July,2025,7
+ORD1497,2025-12-01,Kabir,Kolhapur,Mobile,Electronics,2.0,20093.86,0.0,Card,40187.72,December,2025,12
+ORD1498,2025-11-24,Sana,Nashik,Monitor,Electronics,1.0,12031.97,0.0,Upi,12031.97,November,2025,11
+ORD1499,2025-01-03,Unknown,Nagpur,Monitor,Electronics,1.0,10805.88,0.15,Card,9184.998,January,2025,1
+ORD1500,2025-03-20,Meera,Pune,Mouse,Accessories,3.0,645.01,0.1,Upi,1741.527,March,2025,3
